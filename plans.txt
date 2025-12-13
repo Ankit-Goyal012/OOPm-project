@@ -1,0 +1,3 @@
+Basic|Goa Budget Trip|3500|Goa|india|2025-12-25|3|Affordable Goa trip including beaches, fort visit, and local markets.
+Basic| Manali Budget Adventure|4000|Manali|india|2025-12-20|4|Budget hills tour with river rafting, mall road visit and Hidimba temple.
+Premium|Dubai Luxury Tour|25000|Dubai|UAE|2025-12-30|5|Luxury package with 5-star hotel, desert safari VIP, cruise dinner & Burj Khalifa ticket.
